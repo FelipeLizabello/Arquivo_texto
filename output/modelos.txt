@@ -1,5 +1,0 @@
-Ana Oliveira;F;A;1.70;60.0
-Bruno Souza;M;B;1.80;75.5
-Carla Mendes;F;C;1.65;58.3
-Diego Lima;M;D;1.85;82.0
-Fernanda Silva;F;A;1.72;64.7
